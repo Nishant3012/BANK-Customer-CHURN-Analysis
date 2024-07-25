@@ -12,7 +12,7 @@ Churn Analysis:
 It is advantageous for banks to know what leads a client towards the decision to leave the company. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
 Data Gathering: Data assets to pull the data related to Bank customer and associated details. ActiveCustomer.xlsx Bank_Churn.csv CreditCard.xlsx CustomerInfo.csv ExitCustomer.xlsx Gender.xlsx Geography.xlsx
-Data Dictionary (The complete understanding of Business)
+## Data Dictionary (The complete understanding of Business)
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 
 CustomerId—contains random values and has no effect on customer leaving the bank.
@@ -47,7 +47,7 @@ Exited— whether or not the customer left the bank. 0 represents Retain (Still 
 
 Bank DOJ — date when the Customer associated/joined with the bank
 
-End To End - TASKS Performed - Life Cycle of a Data Analyst
+# End To End - TASKS Performed - Life Cycle of a Data Analyst
 Requirement Gathering (BRD / FRD)
 Data Collections (Database / CSV/ Excel)
 Data Modelling
